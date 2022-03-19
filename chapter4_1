@@ -16,3 +16,4 @@ yearJoined = pd.DataFrame({'yearJoined': memberYears,
                            'memberStats': memberStats}) 
                            
 NUM_EMAILS_SENT_WEEKLY = 3
+
